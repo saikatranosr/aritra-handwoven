@@ -1,0 +1,22 @@
+{
+    "name": "Aritra Handwoven - The best Fabric Store",
+    "short_name": "Aritra Handwoven",
+    "description": "Aritra Handwoven is the best quality fabric manufacturer and seller all over India. Get the best fabric for your company now.",
+    "start_url": "/",
+    "scope": "/",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
