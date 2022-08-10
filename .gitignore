@@ -36,6 +36,9 @@ yarn-error.log*
 
 .dccache
 
+# static folder for DigitalOcean App Platform
+_static/
+
 
 /public/sw.js
 /public/workbox-*.js
