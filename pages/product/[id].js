@@ -19,6 +19,9 @@ function Product({ product }) {
   const handleOrderNow = () => {
     window.open(`https://wa.me/918076385508?text=%2AOrder through Web%2A%0AProduct: ${process.env.NEXT_PUBLIC_HOST}/product/${id}%0A`, "_blank")
   }
+  const handleEnquire = () => {
+    window.open(`https://wa.me/918076385508?text=%2AFabric Enquiry%2A%0AProduct: ${process.env.NEXT_PUBLIC_HOST}/product/${id}%0A`, "_blank")
+  }
 
   return (
     <>
@@ -89,6 +92,16 @@ function Product({ product }) {
                 <div className="flex items-center justify-center gap-2">
                   <Icon size="1.5rem" className="text-white">whatsapp</Icon>
                   <span>Order Now</span>
+                </div>
+              </button>
+
+              <button
+                onClick={handleEnquire}
+                className='grow text-sky-50 dark:text-slate-100 bg-slate-500 dark:bg-slate-500 py-2 rounded-md dark:hover:bg-sky-600 hover:bg-sky-600 transition-all'
+              >
+                <div className="flex items-center justify-center gap-2">
+                  <Icon size="1.5rem" className="text-white">whatsapp</Icon>
+                  <span>Enquire Fabric</span>
                 </div>
               </button>
             </div>
