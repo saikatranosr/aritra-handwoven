@@ -65,11 +65,11 @@ export default function Footer() {
             </h2>
             <nav className='list-none mb-10'>
               <li>
-                <a target="_blank" rel="noreferrer" href="https://wa.me/918076385508" className='text-slate-500 hover:underline'>WhatsApp</a>
+                <a target="_blank" rel="noreferrer" href="https://wa.me/918076385508" className='text-slate-500 hover:underline'>WhatsApp 8076385508</a>
                 
               </li>
               <li>
-                <a target="_blank" rel="noreferrer" href="https://instagram.com/instagram.com/nrweaves_/" className='text-slate-500 hover:underline'>Instagram</a>
+                <a target="_blank" rel="noreferrer" href="https://instagram.com/instagram.com/nrweaves_/" className='text-slate-500 hover:underline'>Instagram @nrweaves_</a>
                 
               </li>
               <li>
@@ -79,9 +79,6 @@ export default function Footer() {
               
             </nav>
           </div>
-
-          
-          
         </div>
       </div>
       <div className=''>

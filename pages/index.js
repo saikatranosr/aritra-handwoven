@@ -46,7 +46,7 @@ export default function Home({ products }) {
             />
           </div>
           <div className='flex flex-col py-1 justify-center items-center'>
-            <div className='py-1 w-80 md:w-96'>
+            <div className='py-3 w-80 md:w-96'>
               <IKImage
                 alt='Aritra Handwoven'
                 className='object-cover rounded-md'
@@ -56,7 +56,7 @@ export default function Home({ products }) {
             <span className='md:text-lg font-bold text-sky-700 dark:text-sky-300 px-5'>
             The Premium Quality Handwoven Fabric Supplyer
             </span>
-            <div className='text-slate-700 dark:text-slate-300 my-5 text-lg max-w-5xl mx-auto px-5'>
+            <div className='text-slate-700 dark:text-slate-300 my-5 text-lg max-w-fit mx-auto px-5'>
           <span>
           We are an integrated fabric manufacturer “one stop destination” for all type of handspun handwoven fabric requirement from designing to sampling to mass production. After 10 years of weaving experience gradually ALOKE NANDI, start up his own handloom, handspun, handwoven fabric manufacturing firm by the name of “ARITRA HANDWOVEN” in the year 2004...
           </span>{" "}
