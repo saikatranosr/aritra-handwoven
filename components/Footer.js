@@ -47,7 +47,7 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href={"mailto:contact@gonsaijeehandloom.com"} passHref>
+                <Link href={"mailto:contact@aritrahandwoven.com"} passHref>
                   <a className='text-slate-500 hover:underline'>Email Us</a>
                 </Link>
               </li>

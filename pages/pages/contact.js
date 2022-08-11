@@ -9,7 +9,7 @@ export default function Contact(){
         <ul className='ul1'>
           <li className='li16'>
             <span className='s3'>
-              Via Email: <a>contact@gonsaijeehandloom.com</a>
+              Via Email: <a>contact@aritrahandwoven.com</a>
             </span>
           </li>{" "}
           <li className='li16'>
@@ -19,7 +19,7 @@ export default function Contact(){
           </li>{" "}
           <li className='li16'>
             <span className='s3'>
-              Via this Link: <a>https://gonsaijeehandloom.com/contact</a>
+              Via this Link: <a>https://aritrahandwoven.com/contact</a>
             </span>
           </li>{" "}
           <li className='li16'>
